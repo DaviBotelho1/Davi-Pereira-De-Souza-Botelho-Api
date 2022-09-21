@@ -8,7 +8,7 @@
 * `Swagger`
 * `java 17`
 
-# Para importar e rodar o projeto
+# Para importar o projeto
 ### Primeiro passo é abrir o terminal de comandos e clonar no Repositório
 ### `git clone` `https://github.com/DaviBotelho1/Davi-Pereira-De-Souza-Botelho-Api.git`
 
